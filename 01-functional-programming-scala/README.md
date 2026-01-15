@@ -5,7 +5,7 @@
 
 ## Структура проєкту
 ```
-Lab1_Scala/
+01-functional-programming-scala/
 ├── build.sbt
 ├── project/
 │   ├── build.properties

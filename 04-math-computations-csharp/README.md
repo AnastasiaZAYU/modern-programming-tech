@@ -12,7 +12,7 @@
 
 ## Структура проєкту
 ```
-Lab_4/ 
+04-math-computations-csharp/ 
 ├── Lab_4.sln 
 ├── Lab_4/ 
 │   ├── App.config

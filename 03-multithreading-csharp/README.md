@@ -8,7 +8,7 @@
 
 ## Структура проєкту  
 ```
-Lab_3/
+03-multithreading-csharp/
 ├── Lab-3.sln
 ├── Lab-3/
 │   ├── App.config

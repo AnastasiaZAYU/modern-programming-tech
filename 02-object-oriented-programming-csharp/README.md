@@ -9,7 +9,7 @@
 
 ## Структура проєкту 
 ```
-Lab_2/
+02-object-oriented-programming-csharp/
 ├── Lab_2.sln
 ├── Lab_2/
 │   ├── App.config
